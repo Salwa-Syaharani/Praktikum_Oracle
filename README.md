@@ -1,4 +1,10 @@
 # Praktikum_Oracle
+
+Nama : Salwa Syaharani Putri
+
+NIM : 1251420120
+
+
 Laporan Praktikum Oracle Databse Foundation:
 
 🔗 https://docs.google.com/document/d/1zkhQM1I3Nc4kdmziK3495fZOywdoFt14sj8zFDyHL8g/edit?usp=sharing
